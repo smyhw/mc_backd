@@ -1,0 +1,7 @@
+name: backd
+main: smyhw.backd
+version: 1
+author: smyhw
+commands:
+  backd:
+    description: backd
