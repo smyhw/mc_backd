@@ -1,6 +1,6 @@
 name: backd
 main: smyhw.backd
-version: 1
+version: 2
 author: smyhw
 commands:
   backd:
